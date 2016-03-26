@@ -1,7 +1,4 @@
-var angularMaterial = require("webpack-angular-material");
-var angularModule = angular.module("$messageBox",["ngMaterial"]);
-var $injector = angular.bootstrap(document.body, ["$messageBox"]);
-var $mdDialog = $injector.get("$mdDialog");
+var $mdDialog = require("webpack-mddialog-bootstrap");
 
 module.exports = function(title, message) {
     $mdDialog.show($mdDialog.alert({
