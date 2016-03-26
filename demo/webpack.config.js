@@ -8,7 +8,7 @@ module.exports = {
     entry: {
         app: path.resolve(__dirname, "demo.js"),
         vendors: [
-            "md-messagebox"
+            "webpack-md-messagebox"
         ]
     },
     output: {

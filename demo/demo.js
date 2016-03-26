@@ -1,4 +1,4 @@
 
-var mdMessagebox = require("md-messagebox");
+var messageBox = require("webpack-md-messagebox");
 
-mdMessagebox("WARNING", "Quick brown fox jump over the lazy dog.");
+messageBox("WARNING", "Quick brown fox jump over the lazy dog.");
