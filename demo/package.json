@@ -1,0 +1,21 @@
+{
+  "name": "demo",
+  "description": "webpack angular material design messagebox demo",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack-dev-server"
+  },
+  "dependencies": {
+    "clean-webpack-plugin": "^0.1.8",
+    "css-loader": "^0.23.1",
+    "expose-loader": "^0.7.1",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "html-webpack-plugin": "^2.14.0",
+    "json-loader": "^0.5.4",
+    "md-messagebox": "../",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.12.14",
+    "webpack-dev-server": "^1.14.1"
+  }
+}

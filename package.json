@@ -1,0 +1,25 @@
+{
+  "name": "webpack-md-messagebox",
+  "version": "0.0.1",
+  "description": "Angular material design message box.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codigi/md-messagebox.git"
+  },
+  "keywords": [
+    "webpack",
+    "angular",
+    "material",
+    "messagebox"
+  ],
+  "author": "Atanas Palavrov <palavrov@codigi.net> (http://codigi.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codigi/md-messagebox/issues"
+  },
+  "homepage": "https://github.com/codigi/md-messagebox#readme",
+  "dependencies": {
+    "webpack-angular-material": "0.0.2"
+  }
+}
