@@ -1,6 +1,6 @@
 {
   "name": "webpack-md-messagebox",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "description": "Angular material design message box.",
   "main": "index.js",
   "repository": {
@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/codigi/md-messagebox#readme",
   "dependencies": {
-    "webpack-mddialog-bootstrap": "0.0.3"
+    "webpack-mddialog-bootstrap": "0.1.0"
   }
 }
