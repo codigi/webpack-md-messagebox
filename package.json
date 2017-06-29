@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/codigi/md-messagebox#readme",
   "dependencies": {
-    "webpack-mddialog-bootstrap": "0.1.0"
+    "webpack-mddialog-bootstrap": "0.2.0"
   }
 }
